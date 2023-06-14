@@ -18,4 +18,9 @@ to get the benefit of the students.
 Login to the [ get the student account](https://www.jetbrains.com/lp/leaflets-gdc/students/) for PyCharms
 - [ ] Download [Pycharm](https://www.jetbrains.com/pycharm/) to your own computer. Then install, once you start the Pycharm, please 
 log in with the email account you have installed from the previous steps
+## Using Git
+The course material is provided in the Git Repository. You should fork the project in order that
+you can manage your work and still getting the new resources. Please follow the giving steps
+to prepare your work space.
+- [ ]
     
